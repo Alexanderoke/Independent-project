@@ -4,11 +4,11 @@
 ## Description
 {This portfolio landing page contains information about me, who i am as a person nd as a developer with a few projects i have managed to do as a beginer.}
 ## Setup/Installation Requirements
-* Clone the repo {git clone https://github.com/jonnygovish/cookie-recipe.git}
+* Clone the repo {git clone https://github.com/Alexanderoke/Independent-project.git}
 * to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+* open using a web browser of your choice.
+
+
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Live link
 ## Known Bugs
