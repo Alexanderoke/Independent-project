@@ -2,7 +2,7 @@
 #### {The app contains information about me}, {november 5th}
 #### By **{Alexander Oke}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This portfolio landing page contains information about me, who i am as a person nd as a developer with a few projects i have managed to do as a beginer.}
 ## Setup/Installation Requirements
 * Clone the repo {git clone https://github.com/jonnygovish/cookie-recipe.git}
 * to list setup instructions
