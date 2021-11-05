@@ -2,4 +2,6 @@ h1{
   text-align:center;
   background-color:aqua
   }
-  
+  .img{
+    float: right;
+  }
