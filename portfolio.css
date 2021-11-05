@@ -1,17 +1,19 @@
 h1{
   text-align:center;
   background-color:aqua
+  
   }
   h2{
     text-align: center;
   }
   .img{
-    float: inline-end;
+    float:inline-end;
     
     
   }
   img{
     border-radius: 49%;
+    
   }
   .aboutme{
     background-color:brown;
@@ -23,8 +25,15 @@ h1{
     
     }
     .h1pimg{
+      background-color: cadetblue;
+      border-radius: 1%;
+      justify-self: unset;
+
+
 
     }
-    
+    .projects{
+      text-align: justify;
+          }
     
   
