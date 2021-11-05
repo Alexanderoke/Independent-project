@@ -14,7 +14,7 @@
 ## Technologies Used
 {Languages used HTML and CSS.}
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{contcts: alexanderoke08@gmail.com for any enquries
 ### MIT License
 
 Copyright (c) [2021] [Alexander oke]
