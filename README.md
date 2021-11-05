@@ -10,7 +10,7 @@
 
 
 {Here is the live link to the portfolio landing page.
-## your-username.github.io/portfolio
+## Alexanderoke.github.io/Independent-project
 ## Known Bugs
 
 ## Technologies Used
