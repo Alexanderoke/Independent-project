@@ -11,7 +11,7 @@ h1{
     
   }
   img{
-    border-radius: 50%;
+    border-radius: 49%;
   }
   .aboutme{
     background-color:brown;
@@ -21,6 +21,9 @@ h1{
     padding-right: 40%;
     margin: 2%;
     
+    }
+    .h1pimg{
+
     }
     
     
