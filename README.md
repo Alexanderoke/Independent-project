@@ -10,7 +10,7 @@
 
 
 {Here is the live link to the portfolio landing page.
-## Live link
+## your-username.github.io/portfolio
 ## Known Bugs
 
 ## Technologies Used
